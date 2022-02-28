@@ -1,6 +1,7 @@
 dev
 *.prj
 *.mexmaci64
+*.mexw64
 *.mat
 *.m~
 empirical_scatter.m
